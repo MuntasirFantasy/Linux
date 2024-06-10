@@ -1,0 +1,7 @@
+
+1. Binaries:
+    Binaries are executables, like exe files in windows. These binaries are mainly located at /usr/bin and /usr/sbin.
+
+2. Shell:
+    Shell is an environment and interpreter for running commands in Linux. Example: bash, Z shell, C shell
+
