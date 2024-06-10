@@ -1,0 +1,10 @@
+
+1. Superuser's home directory: /root
+2. Kernel Image: /boot
+3. System configuration files: /etc
+4. User directories: /home
+5. Mount point: /mnt
+6. View of internal kernel data: /proc
+7. Kernel's view of the hardware: /sys
+8. Special device files: /dev
+9. 
