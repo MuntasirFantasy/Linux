@@ -1,7 +1,7 @@
 
 1. Superuser's home directory: /root
 2. Kernel Image: /boot
-3. System configuration files: /etc
+3. System configuration files: /etc . These files control when and how programs start up.
 4. User directories: /home
 5. Mount point: /mnt
 6. View of internal kernel data: /proc
