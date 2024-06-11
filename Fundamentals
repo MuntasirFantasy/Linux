@@ -5,3 +5,5 @@
 2. Shell:
     Shell is an environment and interpreter for running commands in Linux. Example: bash, Z shell, C shell
 
+3. Path:
+    PATH holds directories in which the operating system looks for the commands you execute at the command line.
