@@ -4,6 +4,7 @@
 3. locate file_name; It uses a database, that needs to be updated for the entry to be found by locate.
 4. whereis ; find the binaries with the command whereis
 5. which ; Find the location of the binaries in the PATH variable in Linux.
+6. find ; powerful and flexible search utility
 
 
 
