@@ -5,7 +5,7 @@
 4. whereis ; find the binaries with the command whereis
 5. which ; Find the location of the binaries in the PATH variable in Linux.
 6. find ; powerful and flexible search utility
-
+    find directory options expression
 
 
 Tips:
