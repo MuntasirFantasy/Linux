@@ -7,7 +7,14 @@
 6. find ; powerful and flexible search utility; allower filtes: *,?,[]
     find directory options expression
     find / -type f -name apache*
-
+7. head
+    head -20 /etc/snort/snort.conf
+8. tail
+    tail -20 /etc/snort/snort.conf
+9. nl; display file contents with line numbers.
+    nl file_name
+10.sed; stream editor, works like windows find and replace.
+    
 
 Tips:
 1. Use (--) for word options of a command, use a single dash (-) before single letter options:
