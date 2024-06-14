@@ -10,3 +10,7 @@
 
 4. Piping:
     Piping is the method to send the output of one command as the input of another command.
+
+5. Configuration Files:
+    All configuration files in linux are text files. To reconfigure an applicaiton simply change the text file, save the file
+and restart the application.
