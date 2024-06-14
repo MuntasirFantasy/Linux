@@ -7,3 +7,6 @@
 
 3. Path:
     PATH holds directories in which the operating system looks for the commands you execute at the command line.
+
+4. Piping:
+    Piping is the method to send the output of one command as the input of another command.
