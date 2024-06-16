@@ -19,3 +19,9 @@ and restart the application.
     i. Linux starts counting at 0. Just like C language.
     ii. Linux is case sensitive.
 
+7. Change MAC address of interface:
+    i. ifconfig eth0 down
+    ii. ifconfig eth0 hw ether 00:12:32:45:56:77
+    iii. ifconfig eth0 up
+
+
