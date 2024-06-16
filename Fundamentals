@@ -24,4 +24,9 @@ and restart the application.
     ii. ifconfig eth0 hw ether 00:12:32:45:56:77
     iii. ifconfig eth0 up
 
+8. Set IP and request the IP from DHCP
+    i. sudo ifconfig eth0 192.168.0.155
+    ii. sudo dhclient eth0
+
+
 
